@@ -14,3 +14,6 @@
 *发送50条*
 
 ## 输入help可获取帮助
+
+# 测试截图
+![测试图片](https://github.com/GCLgaici/bombdsys/blob/27f515cf2ee2b54a240e0b17ded53f11b2552651/github/pmjt2024-02-22%20053448.png)
