@@ -3,22 +3,32 @@
 
 ## 功能介绍
 可以根据数据字典里的文字内容随机提取发送信息给对方。
+
 也可以按字典顺序发送信息给对方。
+
 也可以直接编辑新的数据字典来使用。
+
+
 
 ## 可以自己编写数据字典
 ![测试图片](https://github.com/GCLgaici/bombdsys/blob/3afdd0a90418efab9b61c4e1ea8d0be2d30bed79/github/pmjt2_2024-02-22%20055458.png)
 
+
+
 ## 发送内置数据库
 
 *按顺序发送数据*
+
 `run god i`
 
 *随机发送数据默认发20条*
+
 `run god r`
 
 *你也可以加上发送次数*
+
 `run god r 50`
+
 *发送50条*
 
 ## 输入help可获取帮助
@@ -28,5 +38,5 @@
 
 
 # 打包版 直接使用
-[Bombing_system.zip](https://github.com/GCLgaici/bombdsys/releases/download/untagged-e16a7f231a9a52b02dbf/Bombing_system.zip)
+[exe文件Bombing_system.zip](https://github.com/GCLgaici/bombdsys/releases/download/untagged-e16a7f231a9a52b02dbf/Bombing_system.zip)
 
