@@ -39,7 +39,7 @@ run god r 50
 ![测试图片](https://github.com/GCLgaici/bombdsys/blob/3afdd0a90418efab9b61c4e1ea8d0be2d30bed79/github/pmjt2_2024-02-22%20055458.png)
 
 执行方法 `run 字典文件路径 r 次数`
-
+或者    `run 字典文件路径 i`
 
 
 # 测试截图
