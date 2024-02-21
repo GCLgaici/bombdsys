@@ -17,3 +17,8 @@
 
 # 测试截图
 ![测试图片](https://github.com/GCLgaici/bombdsys/blob/27f515cf2ee2b54a240e0b17ded53f11b2552651/github/pmjt2024-02-22%20053448.png)
+
+
+# 打包版 直接使用
+[Bombing_system.zip](https://github.com/GCLgaici/bombdsys/releases/download/untagged-e16a7f231a9a52b02dbf/Bombing_system.zip)
+
