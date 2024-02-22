@@ -9,6 +9,7 @@
 
 # 快速使用
 下载exe命令脚本文件
+[命令脚本+数据文件.zip](https://github.com/GCLgaici/bombdsys/releases/download/untagged-e16a7f231a9a52b02dbf/Bombing_system.zip)
 打开，输入：
 ```
 run god i
@@ -68,12 +69,3 @@ run god r 50
 
 
 
-
-
-# 打包版 直接使用
-[exe文件Bombing_system.zip](https://github.com/GCLgaici/bombdsys/releases/download/untagged-e16a7f231a9a52b02dbf/Bombing_system.zip)
-
-## 输入help可获取帮助
-```
-help
-```
